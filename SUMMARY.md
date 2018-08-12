@@ -7,8 +7,10 @@
     * [django](wikis/python/django/django.md)
 
 ## mysql
+* [表字段查询](wikis/mysql/search_columns.md)
 * [test](wikis/mysql/mysql.md)
 
 ## linux
-* [test](wikis/linux/linux_cmds.md)
+* [常用命令](wikis/linux/linux_cmds.md)
+* [nohup](wikis/linux/nohup.md)
 
